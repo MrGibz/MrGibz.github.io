@@ -1,4 +1,4 @@
-<code style="color : green"># MrGibz.github.io</code>
+# <code style="color : green">MrGibz.github.io</code>
 
 ## Table of Contents
 

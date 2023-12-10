@@ -16,6 +16,10 @@
 ## <code style="color : green">3. Software Design and Engineering: Artifact 1</code>
 [Click here to navigate to Artifact 1 Source Code](https://github.com/MrGibz/MrGibz.github.io.git)
 
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/77d9cb60-b74c-45d2-b5a9-dcad305798dc)
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/d0e39661-b666-461b-919a-cdc96dfc6e87)
+
+
 This artifact was part of CS-320’s MobileApplication assignment. This course covered testing automation in programming. I originally wrote this code in Java and utilized JUnit testing to check for accuracy of all of the functions. I wrote this program in early 2022 when I took this course and haven’t touched it since. The purpose was to ensure 100% test coverage using JUnit.
 
 One of the possible ways to meet the requirement for a Software Design and Engineering enhancement was to convert a program into a different language and I found this exciting. I went through old assignments and found this one and thought it would be really neat to include it in my ePortfolio after converting it to C++. It shows my ability to understand key concepts of Object-Oriented programming by being able to use two different languages to accomplish the same tasks of creating/editing appointments, contacts, and tasks for an application. This showcases my ability to be able to remain flexible and change languages last minute without losing accuracy or capability. I was able to also demonstrate using completely different tools (C++ and CLion) to accomplish the same task. This time, I included a main function to run my code and demonstrate that it all works. This was not in scope of the original assignment.

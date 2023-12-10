@@ -43,7 +43,7 @@ Develop a security mindset that anticipates adversarial exploits in software arc
 
 I met the objectives in Outcome 5 by removing hardcoded ways of accessing course data in Artifact 3. Originally, the code allowed for manual user entry to load data from a .txt file to the binary search tree. I identified this early on as a non-optimal solution to the problem the original code was trying to solve. This led me to wanting to implement a database solution that would outright prevent this from happening. While the intent of the original assignment was not to have the most effective solution, I believe that I addressed a major design flaw by adding this database capability to the code, resulting in a more secure program for handling course information.
 
-Below, you will have the opportunity to review my portfolio in its entirety. Each artifact is accompanied with screenshots of some of the code at work, a narrative describing each artifact and what I did to enhance it, as well as a link to the source code for the original artifact and the enhanced version. Thank you for this wonderful opportunity to showcase some of the hardest work I have done yet!
+## Below, you will have the opportunity to review my portfolio in its entirety. Each artifact is accompanied with screenshots of some of the code at work, a narrative describing each artifact and what I did to enhance it, as well as a link to the source code for the original artifact and the enhanced version. Thank you for this wonderful opportunity to showcase some of the hardest work I have done yet!
 
 ## <code style="color : green">2. Code Review</code>
 [Click to watch my Code Review on YouTube!](https://www.youtube.com/watch?v=rhpFhrwW_X4&list=PLZdwj6aeoqEC1B0XgmjcImfCOB5T__tAr&index=1)

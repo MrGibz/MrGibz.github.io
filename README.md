@@ -10,7 +10,6 @@
 
 ## <code style="color : green">1. Professional Self-Assessment</code>
 
-
 ## <code style="color : green">2. Code Review</code>
 [Click to watch my Code Review on YouTube!](https://www.youtube.com/watch?v=rhpFhrwW_X4&list=PLZdwj6aeoqEC1B0XgmjcImfCOB5T__tAr&index=1)
 

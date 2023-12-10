@@ -42,6 +42,10 @@ Sorting Algorithm to traverse BST in Reverse Order:
 
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/46df4d4c-5b07-42e0-b263-12303333bf1d)
 
+Output when conducting Reverse Order Sort:
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/56369c99-4507-467e-9c45-fe6eed30377d)
+
 
 This artifact is project two from the CS-300 Data Structures and Algorithms course. In this project, we load course information from a .txt file into a Binary Search Tree and then perform sorting algorithms and search functions on the nodes of the BST. My enhancement to this artifact is an algorithm that conducts a sort of the BST in reverse alphabetic order. I am including this artifact in my ePortfolio because I believe that it demonstrates fundamental understanding of how essential algorithms are built and how they can be used with a BST. Additionally, I utilize the concept of recursion to call the algorithm multiple times within itself to achieve the desired result. I am excited to be able to show knowledge of algorithms, data structures, and recursion all in a simple, effective program like this one.
 

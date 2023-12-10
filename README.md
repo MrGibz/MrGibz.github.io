@@ -16,7 +16,7 @@
 ## <code style="color : green">3. Software Design and Engineering: Artifact 1</code>
 [Click here to navigate to Artifact 1 Source Code](https://github.com/MrGibz/MrGibz.github.io.git)
 
-Screenshot of the original code:
+Screenshot of the original code written in Java:
 
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/77d9cb60-b74c-45d2-b5a9-dcad305798dc)
 
@@ -35,6 +35,13 @@ Something I learned while modifying this code and transferring functionality fro
 
 ## <code style="color : green">4. Algorithms and Data Structure: Artifact 2</code>
 [Click here to navigate to Artifact 2 Source Code](https://github.com/MrGibz/MrGibz.github.io.git)
+
+Sorting Algorithm to traverse BST in Reverse Order:
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/aa8fb65d-36fc-4183-bbd2-9143dfad95c3)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/46df4d4c-5b07-42e0-b263-12303333bf1d)
+
 
 This artifact is project two from the CS-300 Data Structures and Algorithms course. In this project, we load course information from a .txt file into a Binary Search Tree and then perform sorting algorithms and search functions on the nodes of the BST. My enhancement to this artifact is an algorithm that conducts a sort of the BST in reverse alphabetic order. I am including this artifact in my ePortfolio because I believe that it demonstrates fundamental understanding of how essential algorithms are built and how they can be used with a BST. Additionally, I utilize the concept of recursion to call the algorithm multiple times within itself to achieve the desired result. I am excited to be able to show knowledge of algorithms, data structures, and recursion all in a simple, effective program like this one.
 

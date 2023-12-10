@@ -10,6 +10,41 @@
 
 ## <code style="color : green">1. Professional Self-Assessment</code>
 
+I began my journey to complete my BS in Computer Science at SNHU in 2020. When I began, I had about 30 credits towards my degree and had ambitions to earn a commission in the military. About halfway to my BS in Computer Science, I met this goal. With that, my ambition continued to flourish and my intent is to apply for graduate school once I earn my undergrad after this term. I am incredibly grateful to this University for enabling me to achieve my personal and professional goals and earning this degree is a momentous milestone in my life.
+
+As I have discussed in my narratives that you will read below, this capstone course has taught me a lot about myself. First, I have learned that I possess the skills to solve problems I may not be familiar with. The ability to research and understand computer science and the many technical terms that comes with the field has been prevalent throughout this program and continued to be vital to my success in this course. I learned that, while I may not remember everything about every class, I have learned the fundamental building blocks required to effectively and competently write code to achieve different objectives, such as the required course outcomes associated with the rubric for this project.
+
+Overall, this program has taught me a lot of fundamental coding concepts that will be useful for me as an entry level developer. More notably, this program has taught me how to use resources, tools, and networking to aid in understanding and finding solutions. Throughout the program, I have relied on classmates to collaborate with and have even found myself able to offer assistance to others. Collaborative team environments allow for additional growth as you are either learning something new from somebody that really understands it, or you have the opportunity to teach what you know to someone else, further solidifying your experience in the process. I have had the pleasure of working in IT management for about a year now and I know firsthand that communicating requirements and expectations to stakeholders is the single most important aspect of software development. Getting good requirements and user stories is a must in order to develop most effectively for a client.
+
+### Outcome 1:
+Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+
+I achieved Outcome 1 by utilizing a code review to communicate what I thought were areas of improvement for previous projects. Once I identified insufficiencies, I discussed how I intended to approach the enhancement. I maintained an open mind and asked multiple questions during the review in hopes of receiving feedback from the professor. Once feedback was received, I incorporated it into my final solution. Without that feedback, my enhancement solution would not have been as capable or effective.
+
+I also implemented industry standard, function level commenting throughout my code with the mindset that any future collaborator could pick up my code where I left off and easily understand what I was trying to do with each block of code and why. In the programming industry, this is best practice and often the only interaction that will ever take place between two different teams. It is important to ensure simplicity and conciseness in your commenting to help enable diverse audiences to effectively review and modify your code. 
+
+### Outcome 2:
+Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+
+During my code review, I succinctly discussed the original artifacts that I planned to enhance. In a video code review, I spent upwards of 30 minutes taking a line by line deep dive into the code and how there was room for improvement. For each required enhancement, I described the current functionality of the code and briefly covered how my enhancement plans would take place. I did this in a clear, professional manner, knowing that the audience was my professor. I had 3+ takes of my code review to ensure I provided a top level description of the artifacts and my intentions moving forward.
+
+### Outcome 3:
+Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+
+To meet Outcome 3, I enhanced an artifact from a 300 level course to include a reverse sorting algorithm on a binary search tree. In the original artifact, only an in order sort existed. I was able to combine reverse engineering and algorithmic research to determine how to implement a reverse order sorting algorithm on the data in the binary search tree. Additionally, I incorporated a standard computer science practice called abstraction to access the private inReverseOrder() method with a public accessor method.
+
+### Outcome 4:
+Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+
+I meet Outcome 4 in a lot of ways. Most notably in Artifact 3, I incorporate the SQLite library into C++ code to create a Course database that holds course information that users can conduct CRUD functionality on. Using SQLite with the CLion IDE proved to be challenging but I was able to troubleshoot the combination of tools effectively enough to find a working solution. Once I got the SQLite library working, I was able to add CRUD functionality in an industry standard manner where any entry level developer can look at and understand what my code is doing. I was especially proud of this artifact because it demonstrated effectiveness in working with databases in a way that I believe will be especially useful when I enter the field as a new developer.
+
+### Outcome 5:
+Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+I met the objectives in Outcome 5 by removing hardcoded ways of accessing course data in Artifact 3. Originally, the code allowed for manual user entry to load data from a .txt file to the binary search tree. I identified this early on as a non-optimal solution to the problem the original code was trying to solve. This led me to wanting to implement a database solution that would outright prevent this from happening. While the intent of the original assignment was not to have the most effective solution, I believe that I addressed a major design flaw by adding this database capability to the code, resulting in a more secure program for handling course information.
+
+Below, you will have the opportunity to review my portfolio in its entirety. Each artifact is accompanied with screenshots of some of the code at work, a narrative describing each artifact and what I did to enhance it, as well as a link to the source code for the original artifact and the enhanced version. Thank you for this wonderful opportunity to showcase some of the hardest work I have done yet!
+
 ## <code style="color : green">2. Code Review</code>
 [Click to watch my Code Review on YouTube!](https://www.youtube.com/watch?v=rhpFhrwW_X4&list=PLZdwj6aeoqEC1B0XgmjcImfCOB5T__tAr&index=1)
 

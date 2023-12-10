@@ -60,6 +60,8 @@ Course Info Table created using SQLite library:
 
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/9cd8ca11-3ca1-4e8a-823b-ec7def4120cc)
 
+Create, Read, Update, Delete functionality:
+
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/612d8007-07a9-4f38-9c8a-cb9d3d859e9f)
 
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/39886907-e21c-4c84-bba7-b50115374ed8)

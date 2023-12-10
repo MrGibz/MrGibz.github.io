@@ -9,7 +9,7 @@
 ### <code style="color : green">5. Professional Self-Assessment</code>
 
 ## <code style="color : green">1. Code Review</code>
-[Click to watch my Code Review on YouTube!]([https://www.google.com](https://www.youtube.com/watch?v=rhpFhrwW_X4&list=PLZdwj6aeoqEC1B0XgmjcImfCOB5T__tAr&index=1))
+[Click to watch my Code Review on YouTube!](https://www.youtube.com/watch?v=rhpFhrwW_X4&list=PLZdwj6aeoqEC1B0XgmjcImfCOB5T__tAr&index=1)
 
 ## <code style="color : green">2. Software Design and Engineering: Artifact 1</code>
 

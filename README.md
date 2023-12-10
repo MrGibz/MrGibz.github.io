@@ -16,13 +16,13 @@
 ## <code style="color : green">3. Software Design and Engineering: Artifact 1</code>
 [Click here to navigate to Artifact 1 Source Code](https://github.com/MrGibz/MrGibz.github.io.git)
 
+Screenshot of the original code:
+
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/77d9cb60-b74c-45d2-b5a9-dcad305798dc)
 
-Screenshot of the original code
+Screenshot of the code converted to C++:
 
 ![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/d0e39661-b666-461b-919a-cdc96dfc6e87)
-
-Screenshot of the code converted to C++
 
 This artifact was part of CS-320’s MobileApplication assignment. This course covered testing automation in programming. I originally wrote this code in Java and utilized JUnit testing to check for accuracy of all of the functions. I wrote this program in early 2022 when I took this course and haven’t touched it since. The purpose was to ensure 100% test coverage using JUnit.
 

@@ -56,6 +56,22 @@ When I initially set out to enhance this artifact, I was nervous that writing th
 ## <code style="color : green">5. Databases: Artifact 3</code>
 [Click here to navigate to Artifact 3 Source Code](https://github.com/MrGibz/MrGibz.github.io.git)
 
+Course Info Table created using SQLite library:
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/9cd8ca11-3ca1-4e8a-823b-ec7def4120cc)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/612d8007-07a9-4f38-9c8a-cb9d3d859e9f)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/39886907-e21c-4c84-bba7-b50115374ed8)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/7950aa4f-f609-417f-9bd8-ce267badd7d6)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/ae4335e2-ea52-4ec3-b55f-91f5ef6b93b9)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/71691fc4-3f0c-468a-869a-eef029fca363)
+
+![image](https://github.com/MrGibz/MrGibz.github.io/assets/66959283/8e6653e1-7b74-471b-b3aa-b9c33fa8756d)
+
 This artifact is project two from the CS-300 Data Structures and Algorithms course. In this project, we load course information from a .txt file into a Binary Search Tree and then perform sorting algorithms and search functions on the nodes of the BST. My enhancement to this artifact is an algorithm that conducts a sort of the BST in reverse alphabetic order. I am including this artifact in my ePortfolio because I believe that it demonstrates fundamental understanding of how essential algorithms are built and how they can be used with a BST. Additionally, I utilize the concept of recursion to call the algorithm multiple times within itself to achieve the desired result. I am excited to be able to show knowledge of algorithms, data structures, and recursion all in a simple, effective program like this one.
 
 I meet the course objectives that I intended to meet with this artifact enhancement. I believe I even exceed them by utilizing recursion in my algorithm as well. This is a useful enhancement that shows an understanding of potential user requirements that is useful in the field of computer science where you are developing to a customer’s needs. In this instance, there was no way to sort the courses from Z to A. I added this functionality because if there is a database of 300 courses, you might want to have that capability. I also utilize secure coding practices by having a private inReverseOrder() function and a public InReverseOrder() function that calls on inReverseOrder() to perform the sort. This further shows my ability to execute efficient, secure coding to perform a function.
